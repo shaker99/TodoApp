@@ -1,0 +1,12 @@
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\bin\Debug\net6.0\📁 TodoApp.Domain.deps.json
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\bin\Debug\net6.0\📁 TodoApp.Domain.dll
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\bin\Debug\net6.0\📁 TodoApp.Domain.pdb
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.csproj.AssemblyReference.cache
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.AssemblyInfo.cs
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.dll
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\refint\📁 TodoApp.Domain.dll
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\📁 TodoApp.Domain.pdb
+C:\Users\..Shaker\source\repos\TodoApp\📁 TodoApp.Domain\obj\Debug\net6.0\ref\📁 TodoApp.Domain.dll

@@ -1,0 +1,35 @@
+services:
+  todosqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: todosqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Passw0rd
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    networks:
+      - todo-network
+
+  todoapp:
+    build:
+      context: .
+      dockerfile: TodoApp.API/Dockerfile
+    container_name: todoapp
+    depends_on:
+      - todosqlserver
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=todosqlserver;Database=TodoAPP;User=sa;Password=Passw0rd;
+    ports:
+      - "5000:80"
+    networks:
+      - todo-network
+
+volumes:
+  sqlserver-data:
+
+networks:
+  todo-network:
+    driver: bridge
