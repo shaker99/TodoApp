@@ -63,3 +63,7 @@ Run with Docker
     docker-compose up --build
 
     Access the API: You can access the Swagger UI at: http://localhost:5000/swagger/index.html
+
+    For authorize :
+    username : admin
+    password : 123456
